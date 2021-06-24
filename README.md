@@ -12,7 +12,7 @@ Please email your queries to Alejandro Vigna-Gomez (avignagomez@nbi.ku.dk).
 ## Acknowledgements
 If you use any scripts in this repo for results presented in a scientific publication, please cite:
 
-1. Vigna-Gómez, A., et al., in prep. The formation of heavy, radio-quiet neutron star binaries and the origin of GW190425.
+1. Vigna-Gómez, A., et al. (2021). The formation of heavy, radio-quiet neutron star binaries and the origin of GW190425. [arXiv:2106.12381](https://arxiv.org/abs/2106.12381)
 
 If you use the MESA profile or history files please also cite:
 
