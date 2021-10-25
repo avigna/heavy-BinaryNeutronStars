@@ -20,7 +20,7 @@ Please email your queries to Alejandro Vigna-Gómez (avignagomez@nbi.ku.dk).
 ## Acknowledgements
 If you use any scripts in this repo for results presented in a scientific publication, please cite:
 
-1. Vigna-Gómez, A., et al. (2021). The formation of heavy, radio-quiet neutron star binaries and the origin of GW190425. [arXiv:2106.12381](https://arxiv.org/abs/2106.12381)
+1. Vigna-Gómez, A., et al. (2021). Fallback Supernova Assembly of Heavy Binary Neutron Stars and Light Black Hole-Neutron Star Pairs and the Common Stellar Ancestry of GW190425 and GW200115. [doi:10.3847/2041-8213/ac2903](https://iopscience.iop.org/article/10.3847/2041-8213/ac2903) [arXiv:2106.12381](https://arxiv.org/abs/2106.12381)
 
 If you use the MESA profile or history files please also cite:
 
