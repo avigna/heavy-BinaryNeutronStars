@@ -24,8 +24,7 @@ If you use any scripts in this repo for results presented in a scientific public
 
 If you use the MESA profile or history files please also cite:
 
-2. Aguilera-Dena, D.R., et al., in prep.
-
+2. Aguilera-Dena, D. R., et al. (2021). Stripped-Envelope Stars in Different Metallicity Environments I. Evolutionary Phases, Classification and Populations. [arXiv:2112.06948](https://arxiv.org/abs/2112.06948)
 
 ## Author Contributions
 All scripts here were written and curated by Alejandro Vigna-Gómez. 
